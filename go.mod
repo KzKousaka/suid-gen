@@ -1,4 +1,4 @@
-module suid-gen
+module github.com/KzKousaka/suid-gen
 
 go 1.20
 
